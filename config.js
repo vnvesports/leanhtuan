@@ -15,5 +15,7 @@ const CONFIG = {
     lộn  XON : 'Anh biết mà 🥰. Yêu em nhiều 😘😘 ' 
     messDesc : 'Làm, người yêu anh nha
     btn             chấp      nhận : 'Okiiiii lun <3' ,
-    messLink : 'http://fb.com'       // liên kết lộn xộn của các bạn. VD: https://m.me/nam.nodemy
-}
+    messLink 
+    : ''   https : //m.me/vnvesports.sunset // lộn xộn liên kết của các bạn. VD: https://m.me/na
+Các  bác  sĩ  cho  biết  thê
+Các     bác     sĩ     c    thêm :
